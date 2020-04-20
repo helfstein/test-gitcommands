@@ -1,4 +1,4 @@
 test file
 
-temporary added
+final line added
 line added
